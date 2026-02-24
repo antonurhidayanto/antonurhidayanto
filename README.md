@@ -15,13 +15,12 @@ I continuously follow the latest industry trends and am eager to improve my skil
 
 Feel free to reach out via the following channels:
 
-📧 **Email**: [nurhidayanto.nurhidayanto@gmail.com](mailto:nurhidayanto.nurhidayanto@gmail.com)  
-🌐 **Socials**: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anto_nurhidayanto)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurhidayanto)
+📧 **Email**: [nurhidayanto.nurhidayanto@gmail.com](mailto:nurhidayanto.nurhidayanto@gmail.com)
 
 ## 🌐 Socials:
 
-[![Portfolio](https://img.shields.io/badge/My_Portfolio_Website-8A2BE2?style=flat&logo=counterstrike&logoColor=white&logoSize=auto)](https://antonurhidayantocv.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio_Website-8A2BE2?style=flat&logo=counterstrike&logoColor=white&logoSize=auto)](https://antonurhidayantocv.vercel.app/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anto_nurhidayanto)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurhidayanto)
 
 # 💻 Tech Stack:
 
