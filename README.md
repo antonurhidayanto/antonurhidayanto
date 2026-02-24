@@ -16,8 +16,7 @@ I continuously follow the latest industry trends and am eager to improve my skil
 Feel free to reach out via the following channels:
 
 📧 **Email**: [nurhidayanto.nurhidayanto@gmail.com](mailto:nurhidayanto.nurhidayanto@gmail.com)  
-🌐 **Socials**:  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anto_nurhidayanto)  
+🌐 **Socials**: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anto_nurhidayanto)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurhidayanto)
 
 ## 🌐 Socials:
